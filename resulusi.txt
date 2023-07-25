@@ -1,0 +1,3 @@
+resulusi
+- belajar laravel
+- belajar javascript

@@ -2,3 +2,4 @@ resulusi
 - belajar laravel
 - system pembukuan
 - belajar gudang
+- paham github

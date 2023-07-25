@@ -1,6 +1,7 @@
 rencana belajar setelah utama
 - belajar networking
-  &DHCP
-  &ACL
+  & ACL
+  & DHCP
+  & PPPOE
 - bikin system acs
 - belajar detail BGP

@@ -1,4 +1,4 @@
 resulusi
 - belajar laravel
-- belajar javascript
 - system pembukuan
+- belajar gudang
